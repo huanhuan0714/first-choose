@@ -35,6 +35,6 @@ s = 'hello world !'
 
 s = s.strip()
 print(s)
-print(s.replace('world','python'))
-print(s.replace('l','o'))
-print(s.replace(' ',''))
+print(s.replace('world', 'python'))
+print(s.replace('l', 'o'))
+print(s.replace(' ', ''))
